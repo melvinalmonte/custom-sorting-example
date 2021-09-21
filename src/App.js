@@ -39,6 +39,7 @@ function App() {
   return (
     <VStack>
       <Box w={"100%"}>
+        {/* pass our custom sorting function to our table via the onSort prop */}
         <UserTable data={users} columns={columns} onSort={handleSort} />
       </Box>
       <Box p={2} w={"100%"}>
