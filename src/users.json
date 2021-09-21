@@ -1,0 +1,56 @@
+[
+  {
+    "index": 0,
+    "isActive": false,
+    "firstName": "Reese",
+    "lastName": "Ashley",
+    "gender": "male",
+    "email": "reeseashley@kongene.com",
+    "phone": "+1 (829) 561-2564"
+  },
+  {
+    "index": 1,
+    "isActive": false,
+    "firstName": "Knight",
+    "lastName": "Vinson",
+    "gender": "male",
+    "email": "knightvinson@datacator.com",
+    "phone": "+1 (930) 486-3561"
+  },
+  {
+    "index": 2,
+    "isActive": true,
+    "firstName": "Jones",
+    "lastName": "Herring",
+    "gender": "male",
+    "email": "jonesherring@vetron.com",
+    "phone": "+1 (861) 545-2475"
+  },
+  {
+    "index": 3,
+    "isActive": true,
+    "firstName": "Burch",
+    "lastName": "Bryan",
+    "gender": "male",
+    "email": "burchbryan@utara.com",
+    "phone": "+1 (963) 402-3438"
+  },
+  {
+    "index": 4,
+    "isActive": true,
+    "firstName": "Blankenship",
+    "lastName": "Stephenson",
+    "gender": "male",
+    "email": "blankenshipstephenson@mantrix.com",
+    "phone": "+1 (859) 523-3103"
+  },
+  {
+    "index": 5,
+    "isActive": true,
+    "firstName": "Jillian",
+    "lastName": "Golden",
+    "gender": "female",
+    "email": "jilliangolden@moltonic.com",
+    "phone": "+1 (806) 507-3497"
+  }
+]
